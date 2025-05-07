@@ -14,3 +14,5 @@
 •	Use pivot tables and charts to explore trends.  
 •	Perform correlation analysis.  
 •	Visualize insights on rankings, regional strengths, and university performance.  
+## Summary
+<a href="https://github.com/rakhimathur791/Data-Analysis-Dashboard-QS-World-University-Rankings-2025-/blob/main/Project%20Report.pdf">Project Report</a>
