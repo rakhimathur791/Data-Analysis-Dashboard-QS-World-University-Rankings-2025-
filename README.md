@@ -7,3 +7,10 @@
 •	To analyse trends in university rankings over time and identify rising and declining institutions.  
 •	To categorize and visualize universities based on research output, sustainability, and other performance indicators.  
 •	To present findings through interactive Excel dashboards and visual storytelling for easier interpretation.  
+## Process
+•	Collect and clean QS ranking data.  
+•	Calculate ranking changes year over year.  
+•	Analyze key metrics like reputation, faculty ratios, and sustainability.  
+•	Use pivot tables and charts to explore trends.  
+•	Perform correlation analysis.  
+•	Visualize insights on rankings, regional strengths, and university performance.  
